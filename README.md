@@ -59,6 +59,6 @@ Through this project, I learned:
 
 Paarth Rana
 
-B.Tech CSE in AI & ML
+B.Tech CSE (AI & ML)
 
 
